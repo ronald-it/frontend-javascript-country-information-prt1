@@ -1,7 +1,7 @@
 #title {
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: flex-start;
 }
 
 #worldMapImg {
@@ -25,4 +25,3 @@
     align-items: flex-start;
     padding: 0;
 }
-
