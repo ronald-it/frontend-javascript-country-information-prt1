@@ -1,0 +1,27 @@
+#title {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+#worldMapImg {
+    max-width: 100%;
+}
+
+.countryInformationClass {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 0;
+}
+
+.countryOneClass {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 0;
+}
